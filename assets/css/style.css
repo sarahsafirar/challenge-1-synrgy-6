@@ -22,7 +22,10 @@
 .navbar-nav .nav-item {
     margin-right: 15px;
     display: flex;
+    <<<<<<< HEAD
     /* justify-content: center; */
+    =======justify-content: center;
+    >>>>>>>592866db7f08c3bdad8e9fba123f03777046cc8d
 }
 
 .navbar-collapse.show {
